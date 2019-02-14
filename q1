@@ -1,0 +1,10 @@
+proc sumOfSquare {n} {
+	if {$n==1} {
+		return 1
+	}
+	return [expr [expr $n*$n]+[sumOfSquare [expr $n-1]]]
+}
+
+puts "Enter n value:"
+gets stdin a
+puts [sumOfSquare $a]
