@@ -1,0 +1,6 @@
+The internal test for five courses was conduced for a class, the class coordinator of a class want to know the average marks scored by the students in each of the five courses
+
+Following are requirements to solve the problems
+a. Teacher should have capture the marks scored by the student in individual course
+b. Teacher should computer the average marks scored by the student for that course
+c. Teacher should display the average marks scored by the students for every course.
