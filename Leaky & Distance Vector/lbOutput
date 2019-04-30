@@ -1,0 +1,19 @@
+Enter the output rate:64
+
+Packet no 1	 packet size=27
+		Last 27 bytes sent	
+		 Bucket output successful
+Packet no 2	 packet size=37
+		Last 37 bytes sent	
+		 Bucket output successful
+Packet no 3	 packet size=73
+		 64 Bytes outputted.
+		Last 9 bytes sent	
+		 Bucket output successful
+Packet no 4	 packet size=47
+		Last 47 bytes sent	
+		 Bucket output successful
+Packet no 5	 packet size=72
+		 64 Bytes outputted.
+		Last 8 bytes sent	
+		 Bucket output successful
